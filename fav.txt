@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 apple
 ornage
 banana
+=======
+james bond
+annanbond
+go bond
+>>>>>>> movies
